@@ -1,0 +1,6 @@
+{
+    "serverPort": 5000,
+    "dbUrl": "mongodb+srv://thientag211:SSA6791sln@cluster0.j9meece.mongodb.net/?retryWrites=true&w=majority",
+    "secretKey": "superDuperSecretKey",
+    "staticPath": "C:\\EnjoyEnglish\\backend-course\\static"
+}
